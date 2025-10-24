@@ -6,7 +6,8 @@
 
 * [Seller Psychology](consumer-psychology-research/seller-psychology/README.md)
   * [Seller Experience](consumer-psychology-research/seller-psychology/seller-experience.md)
-  * [Emotional Landscape Homeselling](consumer-psychology-research/seller-psychology/emotional-landscape-homeselling.md)
+  * [Emotional Landscape Homeselling](consumer-psychology-research/seller-psychology/emotional-landscape-homeselling/README.md)
+    * [Emotional Landscape Homeselling](consumer-psychology-research/seller-psychology/emotional-landscape-homeselling/README.md)
 * [Buyer Psychology](consumer-psychology-research/buyer-psychology/README.md)
   * [Evolving American Dream](consumer-psychology-research/buyer-psychology/evolving-american-dream.md)
 * [Market Research](consumer-psychology-research/market-research/README.md)
