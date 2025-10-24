@@ -15,7 +15,7 @@ ORIGINAL RESEARCH
 
 ***
 
-## Introduction
+## Intro
 
 There has been much focus on buyers lately, understandably. But the seller experience has also changed, and they too are now called to think more closely about what agents do, and what they are paid for doing it.
 
