@@ -36,6 +36,7 @@
   * [Knowledge Base Synthesis](ai-agent-training-and-operations/core-frameworks/knowledge-base-synthesis.md)
   * [Comprehensive Training](ai-agent-training-and-operations/core-frameworks/comprehensive-training.md)
   * [Conversation Analysis](ai-agent-training-and-operations/core-frameworks/conversation-analysis.md)
-* [1000WATT Membership Library Contents](ai-agent-training-and-operations/1000watt-membership-library-contents.md)
+* [1000WATT Membership Library Contents](ai-agent-training-and-operations/1000watt-membership-library-contents/README.md)
+  * [membership library contents](ai-agent-training-and-operations/1000watt-membership-library-contents/membership-library-contents.md)
 * [Reference & Glossary](ai-agent-training-and-operations/reference-and-glossary/README.md)
   * [Quick Reference](ai-agent-training-and-operations/reference-and-glossary/quick-reference.md)
